@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="GlobalFin HealthCorp - Premier financial services for the healthcare industry">
+  <meta name="keywords" content="finance, healthcare, investment, insurance, loans, compliance">
+  <meta name="author" content="GlobalFin HealthCorp">
+  <title>GlobalFin HealthCorp</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100 text-gray-800 font-sans">
+
+  <!-- Header -->
+  <header class="bg-blue-900 text-white py-6">
+    <div class="container mx-auto px-6 flex justify-between items-center">
+      <h1 class="text-3xl font-bold">GlobalFin HealthCorp</h1>
+      <nav>
+        <ul class="flex space-x-6">
+          <li><a href="#home" class="hover:underline">Home</a></li>
+          <li><a href="#about" class="hover:underline">About</a></li>
+          <li><a href="#services" class="hover:underline">Services</a></li>
+          <li><a href="#financing" class="hover:underline">Healthcare Financing</a></li>
+          <li><a href="#legal" class="hover:underline">Legal Framework</a></li>
+          <li><a href="#resources" class="hover:underline">Resources</a></li>
+          <li><a href="#contact" class="hover:underline">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <section id="home" class="bg-blue-800 text-white py-20">
+    <div class="container mx-auto px-6 text-center">
+      <h2 class="text-4xl font-bold mb-4">Empowering Healthcare Through Financial Solutions</h2>
+      <p class="text-lg mb-8">Leading financial partner for hospitals, clinics, and health-tech enterprises across the globe.</p>
+      <a href="#services" class="bg-white text-blue-800 px-6 py-3 rounded-full font-semibold">Explore Our Services</a>
+    </div>
+  </section>
+
+  <!-- About Us -->
+  <section id="about" class="py-16 bg-white">
+    <div class="container mx-auto px-6">
+      <h3 class="text-3xl font-bold text-center mb-10">About Us</h3>
+      <div class="space-y-6 text-lg">
+        <p>GlobalFin HealthCorp is a premier financial institution with over 30 years of experience serving the healthcare sector. We specialize in delivering strategic financial services that help providers grow, operate efficiently, and remain compliant with regulations.</p>
+        <p>Our global presence spans 25 countries with over $200B in assets under management. Our team of certified financial advisors and healthcare consultants work closely with clients to create customized solutions that ensure financial sustainability.</p>
+        <p>We are committed to regulatory compliance and ethical business practices, ensuring all engagements are secure and transparent.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Services -->
+  <section id="services" class="py-16 bg-gray-100">
+    <div class="container mx-auto px-6">
+      <h3 class="text-3xl font-bold text-center mb-10">Our Services</h3>
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        <div class="bg-white p-6 rounded shadow">
+          <h4 class="text-xl font-semibold mb-2">Healthcare Equipment Financing</h4>
+          <p>Flexible terms for acquiring diagnostic, surgical, and life-support equipment for hospitals and clinics.</p>
+        </div>
+        <div class="bg-white p-6 rounded shadow">
+          <h4 class="text-xl font-semibold mb-2">Facility Expansion Loans</h4>
+          <p>Loan options for building, expanding, or renovating healthcare facilities, tailored to regulatory and safety standards.</p>
+        </div>
+        <div class="bg-white p-6 rounded shadow">
+          <h4 class="text-xl font-semibold mb-2">Working Capital Solutions</h4>
+          <p>Customized solutions to manage cash flow, payroll, and operational costs for healthcare institutions.</p>
+        </div>
+        <div class="bg-white p-6 rounded shadow">
+          <h4 class="text-xl font-semibold mb-2">Patient Financing Programs</h4>
+          <p>Programs designed to assist patients in affording medical procedures, with low-interest and flexible payment options.</p>
+        </div>
+        <div class="bg-white p-6 rounded shadow">
+          <h4 class="text-xl font-semibold mb-2">Corporate Advisory</h4>
+          <p>Strategic consulting on mergers, acquisitions, and fundraising, ensuring full legal due diligence and compliance.</p>
+        </div>
+        <div class="bg-white p-6 rounded shadow">
+          <h4 class="text-xl font-semibold mb-2">Insurance & Risk Services</h4>
+          <p>Comprehensive insurance plans and risk management strategies for healthcare providers and employees.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Healthcare Financing -->
+  <section id="financing" class="py-16 bg-white">
+    <div class="container mx-auto px-6">
+      <h3 class="text-3xl font-bold text-center mb-10">Healthcare Financing Solutions</h3>
+      <div class="text-lg space-y-6">
+        <p>We provide a comprehensive suite of financing solutions tailored to the healthcare sector. Whether it's equipment leasing, working capital loans, or construction financing, we help you secure the funds needed to deliver care effectively.</p>
+        <p>Our services are fully compliant with key healthcare and financial regulations, including:</p>
+        <ul class="list-disc pl-6">
+          <li>HIPAA data protection and privacy standards</li>
+          <li>Accreditation and facility licensing support</li>
+          <li>Loan agreements and contract documentation</li>
+          <li>Anti-fraud and abuse compliance checks</li>
+          <li>Environmental, safety, and regulatory due diligence</li>
+        </ul>
+        <p>Clients receive dedicated legal and compliance advisory to ensure transparency, protection, and ethical engagement throughout the financing process.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Legal Framework -->
+  <section id="legal" class="py-16 bg-gray-100">
+    <div class="container mx-auto px-6">
+      <h3 class="text-3xl font-bold text-center mb-10">Legal Framework & Compliance Procedures</h3>
+      <div class="text-lg space-y-6">
+        <p>Operating in the healthcare finance sector requires rigorous adherence to multiple regulatory frameworks and legal procedures to ensure client safety, ethical conduct, and long-term viability.</p>
+        <h4 class="text-2xl font-semibold">Key Legal Frameworks:</h4>
+        <ul class="list-disc pl-6">
+          <li><strong>Health Insurance Portability and Accountability Act (HIPAA):</strong> Ensures the confidentiality and security of healthcare information.</li>
+          <li><strong>Sarbanes-Oxley Act (SOX):</strong> Mandates financial transparency and accurate record-keeping.</li>
+          <li><strong>Anti-Kickback Statute & Stark Law:</strong> Prevents fraud and abuse in referrals and payments.</li>
+          <li><strong>Fair Lending Practices:</strong> Ensures non-discriminatory loan processing and access to capital.</li>
+          <li><strong>General Data Protection Regulation (GDPR):</strong> (for EU clients) Ensures consumer privacy rights in data management.</li>
+        </ul>
+        <h4 class="text-2xl font-semibold">Legal Procedures Followed:</h4>
+        <ul class="list-disc pl-6">
+          <li>Thorough client KYC (Know Your Customer) and AML (Anti-Money Laundering) checks.</li>
+          <li>Due diligence assessments before issuing loans or investment funds.</li>
+          <li>Contractual review by legal and compliance officers for all financing agreements.</li>
+          <li>Quarterly audits and regulatory reporting to maintain financial transparency.</li>
+          <li>Compliance training for all staff and periodic third-party reviews.</li>
+        </ul>
+        <p>These practices ensure that all stakeholders—patients, institutions, investors, and regulators—operate within a safe, reliable, and legally protected financial ecosystem.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Resources -->
+  <section id="resources" class="py-16 bg-white">
+    <div class="container mx-auto px-6">
+      <h3 class="text-3xl font-bold text-center mb-10">Resources & Insights</h3>
+      <div class="space-y-4 text-lg">
+        <p><strong>Blog:</strong> Stay updated with healthcare finance trends, tips, and success stories.</p>
+        <p><strong>FAQs:</strong> Learn about eligibility, loan processes, and common questions.</p>
+        <p><strong>Whitepapers:</strong> Download in-depth guides like "Understanding Healthcare Financing" and "Top 10 Compliance Risks".</p>
+        <p><strong>Case Studies:</strong> Real-world examples of how our financial services helped healthcare institutions scale effectively while maintaining compliance and quality of care.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Contact -->
+  <section id="contact" class="py-16 bg-gray-100">
+    <div class="container mx-auto px-6">
+      <h3 class="text-3xl font-bold text-center mb-10">Get in Touch</h3>
+      <form class="max-w-xl mx-auto bg-white p-8 rounded shadow">
+        <div class="mb-4">
+          <label class="block text-gray-700">Full Name</label>
+          <input type="text" class="w-full px-4 py-2 border rounded" placeholder="Your name" required>
+        </div>
+        <div class="mb-4">
+          <label class="block text-gray-700">Email Address</label>
+          <input type="email" class="w-full px-4 py-2 border rounded" placeholder="you@example.com" required>
+        </div>
+        <div class="mb-4">
+          <label class="block text-gray-700">Message</label>
+          <textarea class="w-full px-4 py-2 border rounded" rows="5" placeholder="How can we help you?" required></textarea>
+        </div>
+        <button type="submit" class="bg-blue-800 text-white px-6 py-2 rounded-full">Submit</button>
+      </form>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="bg-blue-900 text-white py-6 text-center">
+    <p>&copy; 2025 GlobalFin HealthCorp. All rights reserved. | <a href="#" class="underline">Privacy Policy</a> | <a href="#" class="underline">Terms & Conditions</a></p>
+  </footer>
+</body>
+</html>
